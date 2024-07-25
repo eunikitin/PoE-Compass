@@ -18,7 +18,7 @@
 
 <h1>Other minor features</h1>
 
-- Overlay shows up only when you play PoE
+- The in-game overlay shows up only when you play PoE
 - You can tweak the size of elements and hide them in the settings - the timer, the objective list, the notifications
 - Customizable amount of objectives in objectives list from the left
 - Your don't need to worry about saving your progress - everything will be on the same place
@@ -26,12 +26,12 @@
 <h1>How to use</h1>
 
 1. Install and run the app
-2. Set up hotkeys on the first launch screen or later in settings
-3. Start new walkthrough
+2. Set up hotkeys on the first-launch screen or later in settings
+3. Start the new walkthrough
 4. Enjoy
 
 <h1>Known issues</h1>
 
-* The animations could be a bit laggy. If those happened to you - try to switch rendering API in the game settings - DX11, DX12, Vulkan
+* The animations could be a bit laggy. If that happened to you - try to switch rendering API in the game settings - DX11, DX12, Vulkan
   
  
