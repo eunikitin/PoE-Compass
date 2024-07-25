@@ -21,7 +21,7 @@
 - Overlay shows up only when you play PoE
 - You can tweak the size of elements and hide them in the settings - the timer, the objective list, the notifications
 - Customizable amount of objectives in objectives list from the left
-- Your don't need to worry about saving your progress - everything will be on the sam
+- Your don't need to worry about saving your progress - everything will be on the same place
 
 <h1>How to use</h1>
 
