@@ -1,7 +1,3 @@
-
-
-
-
 <p align="center">  
   <img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/logo.png">  
 </p>  
@@ -12,9 +8,12 @@
 </p>  
 
 
+https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/autoupdates_feature.png
 # Features
-| <p align="center"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">In game overlay</h3> | <p align="center"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">Time tracking app</h3> |
+
+| <p align="center"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">In game overlay</h3> | <p align="center"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/autoupdates_feature.png"></p><h3 align="center">Time tracking app</h3> |
 |--|--|
+
 ![enter image description here](https://github.com/eunikitin/PoE-Compass/blob/master/assets/app_screen.png?raw=true)
 <h3 align="center">Track your progress through acts</h3>
 Dont worry about your progress - it will save every time you close the app and it will  
