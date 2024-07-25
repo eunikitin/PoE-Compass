@@ -20,8 +20,7 @@
 
 - Progress bar that shows current act progress
 - The in-game overlay shows up only when you play PoE
-- You can tweak the size of elements and hide them in the settings - the timer, the objective list, the notifications
-- Customizable amount of objectives in objectives list from the left
+- You can hide elements in settings - the timer, the objective list, the notifications
 - Your don't need to worry about saving your progress - everything will be on the same place
 
 <h1>How to use</h1>
