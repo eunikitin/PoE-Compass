@@ -2,7 +2,7 @@
 <p align="center">  
   <img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/logo.png">  
 </p>  
-<p align="center">The Path of Exile leveling companion app</p>  
+<p align="center">Path of Exile leveling companion app</p>  
 
 <p align="center">  
   <a href="https://github.com/eunikitin/PoE-Compass/releases/download/v1.0.0/PoE-Compass-Setup-1.0.0.exe"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/download_button.png"></a>  
