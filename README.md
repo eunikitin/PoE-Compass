@@ -8,12 +8,16 @@
   <a href="https://github.com/eunikitin/PoE-Compass/releases/download/v1.0.0/PoE-Compass-Setup-1.0.0.exe"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/download_button.png"></a>  
 </p>  
 
+<p align="center"><img width="800px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overview_image.png"></p>
+
+
 <h1 align="center">Major Features</h1>
 
 | <p align="center"><img alt="PoE Compass Overlay" width="385px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">In game overlay</h3><p align="center">No more scrolling</p> | <p align="center"><img alt="PoE Compass autoupdates" width="385px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/autoupdates_feature.png"></p><h3 align="center">Automatic updates</h3><p align="center">Everything will be always up to date</p> |
 |--|--|
 
-![enter image description here](https://github.com/eunikitin/PoE-Compass/blob/master/assets/app_screen.png?raw=true)
+<p align="center"><img width="800px" src="https://github.com/eunikitin/PoE-Compass/blob/master/assets/app_screen.png?raw=true"></p>
+
 <h3 align="center">Track your progress through acts</h3>
 
 <h1>Minor features</h1>
