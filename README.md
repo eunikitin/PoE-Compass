@@ -10,7 +10,7 @@
 
 <h1 align="center">Major Features</h1>
 
-| <p align="center"><img alt="PoE Compass Overlay" width="390px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">In game overlay</h3><p align="center">No more scrolling</p> | <p align="center"><img alt="PoE Compass autoupdates" width="390px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/autoupdates_feature.png"></p><h3 align="center">Automatic updates</h3><p align="center">Everything will be always up to date</p> |
+| <p align="center"><img alt="PoE Compass Overlay" width="385px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/overlay_feature.gif"></p><h3 align="center">In game overlay</h3><p align="center">No more scrolling</p> | <p align="center"><img alt="PoE Compass autoupdates" width="385px" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/autoupdates_feature.png"></p><h3 align="center">Automatic updates</h3><p align="center">Everything will be always up to date</p> |
 |--|--|
 
 ![enter image description here](https://github.com/eunikitin/PoE-Compass/blob/master/assets/app_screen.png?raw=true)
