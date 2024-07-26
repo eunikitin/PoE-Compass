@@ -5,7 +5,7 @@
 <p align="center">The Path of Exile leveling companion app</p>  
 
 <p align="center">  
-  <a href=""><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/download_button.png"></a>  
+  <a href="https://github.com/eunikitin/PoE-Compass/releases/download/v1.0.0/PoE-Compass-Setup-1.0.0.exe"><img alt="PoE Compass App" src="https://raw.githubusercontent.com/eunikitin/PoE-Compass/master/assets/download_button.png"></a>  
 </p>  
 
 <h1 align="center">Major Features</h1>
