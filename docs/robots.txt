@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+
+# Разрешаем индексацию основного лендинга
+Allow: /
+
+# Указываем карту сайта (если она есть)
+Sitemap: https://poecompass.com/sitemap.xml
